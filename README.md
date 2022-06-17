@@ -1,0 +1,1 @@
+This repository contains all the code used to generate figures included in my Climate Physics master thesis "Tipping points in a conceptual model of AMOC-sea ice interactions". The figures themselves and a few clips are also included.
